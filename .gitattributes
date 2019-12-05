@@ -1,4 +1,4 @@
 *
-!.gitignore
+!.gitattributes
 # Example of a `.gitattributes` file which reclassifies `.rb` files as php:
 *.rb linguist-language=php
